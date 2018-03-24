@@ -1,0 +1,31 @@
+﻿.Wizard1{
+    min-width: 820px;
+}
+footer {
+    bottom: 0;
+    position: fixed;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.Wrapper {
+    margin-left:10px;
+    margin-right:10px;
+}
+footer {
+    color: black;
+    margin-left: 10px;
+    background-color: #FFF;
+    display :block;
+}
+.round-button {
+    font-weight: bold;
+    text-align: center;
+    border-radius: 15%;
+    outline: none;
+}
+    .round-button:hover {
+        background: #505050;
+        color: white;
+    }
